@@ -1,0 +1,5 @@
+*.iso
+*.crc32
+*.UPD
+*.key
+.vscode/
